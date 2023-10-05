@@ -19,6 +19,15 @@ li {
     padding: 5px;
 }
 
+.box-2 {
+    border: 1px solid white;
+    width: 30%;
+    margin: auto;
+    padding: 5px;
+}
+
+
+
 h1 {
     text-align:left;
     margin-left: 20px;
@@ -57,11 +66,11 @@ button {
 .bottom_button {
     
     text-align: center; padding: 40px;
-    width: 30%; 
+    width: 90%; 
     height: 20px;
     padding: 20px;
     align-content: center;
-    background-color: gray;
+    background-color: rgb(217, 216, 216);
     border-radius: 3px;
     
 }   
